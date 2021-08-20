@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661404421184",
+    "firebase_url": "https://ecensus-38fe2.firebaseio.com",
+    "project_id": "ecensus-38fe2",
+    "storage_bucket": "ecensus-38fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661404421184:android:b08da851fac269fa91e3a5",
+        "android_client_info": {
+          "package_name": "com.e_census_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661404421184-fft8lvj90l7950ilod4qkh4sbvgm1j8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBViBctjC8sFiMk1bBvMXfhV22dJ7G1Rzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661404421184-fft8lvj90l7950ilod4qkh4sbvgm1j8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
